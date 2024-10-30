@@ -46,6 +46,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries, feel free to reach out to:
-- **Your Name or Team Name**
-- **Your Email**
+- **Rathesh Kumar**
+- **rathesh0709@gmail.com**
 - **Your Website or Portfolio Link**
