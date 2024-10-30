@@ -34,10 +34,8 @@ This VR Multiplayer Template is designed to provide a robust starting point for 
 ## Video Overview
 Here’s a short video demonstrating the VR Multiplayer Template in action:
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/Rathesh0709/VR-Multiplayer-Template/main/videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://drive.google.com/file/d/1gZh2P0u4ibXgYHdnPWE86wZUJV4jNX6z/preview" width="640" height="360" allow="autoplay"></iframe>
+
 
 
 ## Contribution
