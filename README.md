@@ -18,7 +18,7 @@ This VR Multiplayer Template is designed to provide a robust starting point for 
 1. **Clone the Repository:**
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/Rathesh0709/VR-Multiplayer-Template
    ```
 
 2. **Open the Project:**
@@ -34,7 +34,7 @@ This VR Multiplayer Template is designed to provide a robust starting point for 
 ## Video Overview
 Here’s a short video demonstrating the VR Multiplayer Template in action:
 
-[![Watch the video](https://img.youtube.com/vi/<YOUR_VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<YOUR_VIDEO_ID>)
+[Watch the Demo Video](videos/demo.mp4)
 
 ## Contribution
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
