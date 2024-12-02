@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, feel free to reach out to:
 - **Rathesh Kumar**
 - **rathesh0709@gmail.com**
-- **Your Website or Portfolio Link**
+- **https://rathesh07.github.io/portfolio/**
