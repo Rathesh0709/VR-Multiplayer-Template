@@ -1,51 +1,51 @@
 # VR Multiplayer Template
 
+A Unity starter template for building **multiplayer virtual-reality** applications. It
+provides a ready-made interaction rig and networked multiplayer so multiple headset users
+can share and interact in the same VR space.
+
 ## Overview
-This VR Multiplayer Template is designed to provide a robust starting point for developing virtual reality multiplayer applications. It includes essential features and functionality to facilitate seamless interaction among multiple users in a shared virtual environment.
+
+The template wires together **Photon Fusion** for networking and the **Oculus/Meta VR
+SDK** for headset interaction, giving you a working base to extend instead of starting
+from scratch.
 
 ## Features
-- **Multiplayer Support:** Built-in functionality for multiple players to interact in the same VR space.
-- **Networking:** Utilizes Unity's networking system for reliable data transfer.
-- **Customizable:** Easily modify and expand the template to fit your project's requirements.
-- **User-Friendly:** Intuitive design that simplifies the onboarding process for new developers.
+
+- **Networked multiplayer:** Powered by **Photon Fusion** (`Fusion.Unity` assemblies,
+  `Assets/Photon` + `Assets/Photon Scripts`) for synchronized player state across clients.
+- **VR interaction rig:** `InteractionRigOVR` prefab built on the **Oculus Integration /
+  Meta XR** SDK (`Assets/Oculus`, `Assets/XR`) for grabbing and interacting with objects.
+- **Reusable prefabs, scenes and resources** under `Assets/` to bootstrap a project.
+- **Customizable & extensible** starting point for collaborative VR experiences.
 
 ## Requirements
-- Unity version: 2021.3.0f1 or later
-- [Specify any other required VR SDKs or plugins, e.g., Oculus Integration, SteamVR]
+
+- **Unity** 2021.3.0f1 or later
+- **Photon Fusion** (a free Photon account + App ID — set it in the Photon AppSettings)
+- **Oculus/Meta XR SDK** (included under `Assets/Oculus`)
+- A Meta Quest / Oculus headset for testing
 
 ## Installation
 
-1. **Clone the Repository:**
-   Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/Rathesh0709/VR-Multiplayer-Template
-   ```
+```bash
+git clone https://github.com/Rathesh0709/VR-Multiplayer-Template
+```
 
-2. **Open the Project:**
-   Open the project in Unity.
-
-3. **See the [INSTALLATION.md](INSTALLATION.md) file for detailed setup instructions.**
+1. Open the project in Unity (matching version above).
+2. Add your **Photon Fusion App ID** in the Photon app settings.
+3. See [INSTALLATION.md](INSTALLATION.md) for detailed setup steps.
 
 ## Usage
-- Navigate using your VR controller.
-- Interact with objects in the virtual space.
-- Join or create a multiplayer session to experience the collaborative features.
 
-## Video Overview
-Here’s a short video demonstrating the VR Multiplayer Template in action:
-
-<iframe src="https://drive.google.com/file/d/1gZh2P0u4ibXgYHdnPWE86wZUJV4jNX6z/preview" width="640" height="360" allow="autoplay"></iframe>
-
-
-
-## Contribution
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
+- Put on your headset and navigate using the VR controllers.
+- Interact with objects in the scene via the interaction rig.
+- Join or host a session to connect with other players in the shared VR space.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+MIT License — see [LICENSE](LICENSE).
 
 ## Contact
-For any inquiries, feel free to reach out to:
-- **Rathesh Kumar**
-- **rathesh0709@gmail.com**
-- **https://rathesh07.github.io/portfolio/**
+
+- **Rathesh Kumar** — rathesh0709@gmail.com — https://rathesh07.github.io/portfolio/
